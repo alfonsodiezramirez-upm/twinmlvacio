@@ -1,5 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say  language="es-ES" voice="alice">
-    Gracias por su atención.
-  </Say>
+    <Say voice="alice" language="es-ES">Gracias por su atención.</Say>
 </Response>
