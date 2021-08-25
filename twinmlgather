@@ -1,0 +1,5 @@
+<Response>
+  <Say voice='alice', language='es-ES'>
+    Gracias por su atención.
+  </Say>
+</Response>
