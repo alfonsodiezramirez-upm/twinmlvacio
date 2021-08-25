@@ -1,5 +1,5 @@
 <Response>
-  <Say voice='alice', language='es-ES'>
+  <Say  language="es-ES" voice="alice">
     Gracias por su atención.
   </Say>
 </Response>
